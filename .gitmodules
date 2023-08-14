@@ -1,3 +1,4 @@
 [submodule "module_a"]
 	path = module_a
 	url = git@github.com:wangjianweiwei/module_a.git
+	branch = main
